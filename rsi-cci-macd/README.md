@@ -11,7 +11,7 @@ Pivot levels
 Buy: \
 RSI > 50 \
 MACD > 0 \
-CCI > 0 \\
+CCI > 0 
 
 Sell: \
 RSI < 50 \
