@@ -1,5 +1,4 @@
-#  Indicators Based Strategies
-
+# Indicators Based Strategies
 
 ## Strategies based on indicators
 - [x] RSI and Double EMA
